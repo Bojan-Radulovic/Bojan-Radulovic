@@ -3,7 +3,9 @@
 - ❤️ I’ve been interested in programming from a very young age and ever since then my passion has only continued to grow
 - 📚 I’m a passionate learner who’s always looking to improve and gain new skills
 - 🌱 I’m currently most interested in natural language processing and web programming
-- 🌐 I’m fluent in English and Croatian
+- 🌍 I’m fluent in English and Croatian
+- 🔗 LinkedIn: https://www.linkedin.com/in/bojan-radulovi%C4%87-02b2a425a
+- 🌐 My portfolio website: http://bojan-radulovic.ml/
 - 📫 Contact email: bojan.radulovic@student.uniri.hr
 
 <!---
