@@ -5,7 +5,7 @@
 - 🌱 I’m currently most interested in natural language processing and web programming
 - 🌍 I’m fluent in English and Croatian
 - 🔗 LinkedIn: https://www.linkedin.com/in/bojan-radulovi%C4%87-02b2a425a
-- 🌐 My portfolio website: http://bojan-radulovic.work.gd
+- 🌐 My portfolio website: http://www.bojan-radulovic.xyz
 - 📫 Contact email: bojan.radulovic@student.uniri.hr
 
 <!---
